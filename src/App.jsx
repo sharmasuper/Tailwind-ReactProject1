@@ -21,7 +21,7 @@ function App() {
     <>
     <Router>
      <Routes>
-      <Route exact path='/' element = {<Home/>}></Route> 
+      <Route exact path='/Tailwind-ReactProject1' element = {<Home/>}></Route> 
      
       <Route exact path='/About' element={<About/>}></Route>
       <Route exact path='/Contact' element = {<Contact/>}></Route>
