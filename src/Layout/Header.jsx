@@ -10,7 +10,7 @@ function Header() {
   const [menuLinks,setMenuLinks] = useState([
     {
       title:"Home",
-      link:"/Tailwind+ReactProject1",
+      link:"/",
       id:1
     },
     {
